@@ -12,7 +12,7 @@ class gridFormat{
 }
 //
 ////Grid Format using an Array DSA;
-// 0  0  0  0  0  0  0  0  0  0
+//         0  0  0  0  0  0  0  0  0  0
 //         0  0  0  0  0  0  0  0  0  0
 //         0  0  0  0  0  0  0  0  0  0
 //         0  0  0  0  0  0  0  0  0  0
