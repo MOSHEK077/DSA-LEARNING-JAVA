@@ -9,7 +9,7 @@ public class tree {
         tr.add(1);
         tr.add(5);
         tr.add(2);
-        tr.add(7);
+        tr.add(7); //Sorted order
         //tr.add(null);//It doesn't allow null values
         System.out.println(tr);
         System.out.println(tr.first());

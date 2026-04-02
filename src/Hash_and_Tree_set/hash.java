@@ -7,7 +7,7 @@ public class hash {
         cars.add("Ford");
         cars.add("BMW");
         cars.add("Toyota");
-        cars.add("Benz");
+        cars.add("Benz");//Provides faster performance with time complexity O(n)
         cars.add(null);//Allows only one null value
 
         System.out.println(cars);
@@ -15,3 +15,4 @@ public class hash {
 
     }
 }
+

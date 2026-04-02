@@ -19,7 +19,6 @@ public class Ex1 {
         linkedList.remove(0);
 
         endTime = System.nanoTime();
-
         elapsedTime = endTime - startTime;
         System.out.println("LinkedList:"+elapsedTime+" ms");
 

@@ -21,9 +21,9 @@ public class link1 {
         //System.out.println(linkedList.pop());
         linkedList.pop();
         System.out.println(linkedList);
-        System.out.println("Stack in Linkedlist");
+        System.out.println("Stack in linkedList");
 
-        //Queue in Linkedlist
+        //Queue in linkedList
         //FIFO = FIRST IN FIRST OUT
         LinkedList<Integer> linkedList2 = new LinkedList<Integer>();
         linkedList2.offer(2);

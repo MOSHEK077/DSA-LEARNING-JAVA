@@ -1,6 +1,4 @@
 package Linear_Search;
-
-
 import  java.util.Scanner;
 
 class Linear{
