@@ -14,7 +14,6 @@ public class tree {
         System.out.println(tr);
         System.out.println(tr.first());
         System.out.println(tr.last());
-
         System.out.println(tr);
     }
 }
